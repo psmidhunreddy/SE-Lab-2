@@ -11,12 +11,12 @@ Input & Validation
 -->Logs invalid records into an error file
 
 Computation
--->Computes:
+>Computes:
   >Subject-wise grades
   >Total marks
   >Percentage
   >CGPA
--->Determines:
+>Determines:
   >Class average percentage
   >Highest and lowest percentage
   >Grade-wise student distribution
