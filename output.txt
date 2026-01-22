@@ -1,0 +1,18 @@
+Student ID	Name	Subject 1	Subject 2	Subject 3	Subject 4	Subject 5	Total Marks	Percentage	CGPA
+--------------------------------------------------------------------------------------------------------------------------------------------
+25MCMT02	ABCD	B+		B+		B+		B		A		348		69.60		6.96
+25MCMT03	XYZ	B		A		C		C		A		323		64.60		6.46
+
+Class Average Percentage: 67.10
+Highest Percentage: 69.60
+Lowest Percentage: 64.60
+
+Distribution of Grades:
+O: 0
+A+: 0
+A: 3
+B+: 3
+B: 2
+C: 2
+D: 0
+F: 0
